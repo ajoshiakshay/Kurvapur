@@ -1,0 +1,12 @@
+E:\Akshay\Projects\KurvapurSevaApp\KurvapurSevaApp\obj\Debug\ResolveAssemblyReference.cache
+E:\Akshay\Projects\KurvapurSevaApp\KurvapurSevaApp\obj\Debug\KurvapurSevaApp.Properties.Resources.resources
+E:\Akshay\Projects\KurvapurSevaApp\KurvapurSevaApp\obj\Debug\KurvapurSevaApp.csproj.GenerateResource.Cache
+E:\Akshay\Projects\KurvapurSevaApp\KurvapurSevaApp\obj\Debug\KurvapurSevaApp.KurvapurForm.resources
+E:\Akshay\Projects\KurvapurSevaApp\KurvapurSevaApp\bin\Debug\KurvapurSevaApp.exe.config
+E:\Akshay\Projects\KurvapurSevaApp\KurvapurSevaApp\bin\Debug\KurvapurSevaApp.exe
+E:\Akshay\Projects\KurvapurSevaApp\KurvapurSevaApp\bin\Debug\KurvapurSevaApp.pdb
+E:\Akshay\Projects\KurvapurSevaApp\KurvapurSevaApp\obj\Debug\KurvapurSevaApp.exe
+E:\Akshay\Projects\KurvapurSevaApp\KurvapurSevaApp\obj\Debug\KurvapurSevaApp.pdb
+E:\Akshay\Projects\KurvapurSevaApp\KurvapurSevaApp\bin\Debug\app.config
+E:\Akshay\Projects\KurvapurSevaApp\KurvapurSevaApp\bin\Debug\log4net.dll
+E:\Akshay\Projects\KurvapurSevaApp\KurvapurSevaApp\bin\Debug\log4net.xml
